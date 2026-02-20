@@ -1,58 +1,51 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Binziya%20Siddik&fontSize=70&animation=fadeIn&fontColor=ffffff&desc=Data%20Analyst%20%E2%9C%A8%20Insight%20Architect&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=f4f4f4&height=180&section=header&text=Binziya%20Siddik&fontSize=65&fontAlign=50&fontAlignY=45&animation=fadeIn&fontColor=333333" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&pause=1000&color=F78FB3&center=true&vCenter=true&width=435&lines=Turning+data+into+art...;Building+predictive+models+with+style.;Solving+complex+problems+elegantly.;Welcome+to+my+digital+garden." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=500&size=26&pause=1000&color=666666&center=true&vCenter=true&width=500&lines=Data+Analyst+✦+Insight+Architect;Turning+complexity+into+clarity.;Specializing+in+Machine+Learning.;Clean+Code.+Clean+Data." alt="Typing SVG" />
 </p>
 
----
+<br/>
 
-### ☁️ My Digital Workspace
-<table align="center" border="0">
+<table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <td width="50%" valign="top">
-      <h4> 🎀 About Me </h4>
-      I'm a Data Analyst who believes that <b>logic</b> and <b>aesthetics</b> should go hand-in-hand. I specialize in finding the "why" behind the numbers and presenting it beautifully.
+    <td width="55%" style="border: none; vertical-align: top; padding-right: 20px;">
+      <h3>✦ The Philosophy</h3>
+      <em>"Data is just noise until it's told as a story."</em>
       <br/><br/>
-      ✨ <b>Focus:</b> Exploratory Data Analysis & ML<br/>
-      🌸 <b>Vibe:</b> Minimalist, efficient, and data-driven<br/>
-      🧁 <b>Currently:</b> Refining my Deep Learning skills
+      I bridge the gap between <b>raw datasets</b> and <b>strategic decisions</b>. My approach is minimalist: I strip away the fluff to find the core logic. 
     </td>
-    <td width="50%" valign="top">
-      <h4> 🛠️ Tools & Enchantments </h4>
-      <img src="https://skillicons.dev/icons?i=py,mysql,r,tableau,aws,figma,github,apple&perline=4" />
+    <td width="45%" style="border: none; vertical-align: top;">
+      <h3>✦ Intelligence Stack</h3>
+      <img src="https://skillicons.dev/icons?i=py,mysql,postgres,r,tableau,aws,github,figma&theme=light&perline=4" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Vital Statistics
+### 📈 Analytics Overview
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BinziyaSiddik&show_icons=true&theme=rose&hide_border=true&title_color=F78FB3&text_color=555&icon_color=F78FB3" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinziyaSiddik&layout=compact&theme=rose&hide_border=true&title_color=F78FB3&text_color=555" width="43%" />
+<img src="https://github-readme-stats.vercel.app/api?username=BinziyaSiddik&show_icons=true&theme=vincere&hide_border=true&title_color=333&text_color=666&icon_color=888" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinziyaSiddik&layout=compact&theme=vincere&hide_border=true&title_color=333&text_color=666" width="43%" />
 </p>
 
 ---
 
-### 🐚 Activity Wave
+### 🌊 Contribution Flow
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BinziyaSiddik&bg_color=ffffff&color=F78FB3&line=F78FB3&point=F78FB3&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BinziyaSiddik&bg_color=ffffff&color=999999&line=333333&point=333333&area=true&hide_border=true" width="100%" />
 </p>
 
----
+<br/>
 
-### 💌 Get in Touch
 <p align="center">
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect_via_Email-333333?style=flat&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-A2D2FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Professional_LinkedIn-333333?style=flat&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=60&section=footer" width="100%" />
 </p>
